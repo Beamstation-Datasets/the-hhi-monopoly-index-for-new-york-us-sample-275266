@@ -1,0 +1,12 @@
+{
+  "export_job_id": "5be0570f-8f55-4758-8821-bd6e51d0db8a",
+  "id_short": 275266,
+  "published_at": "2026-04-12T07:08:00Z",
+  "repo_name": "the-hhi-monopoly-index-for-new-york-us-sample-275266",
+  "sample_asset_name": "beamstation_275266_restaurants-us-ny_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/275266/beamstation_275266_restaurants-us-ny_SAMPLE_DIST.csv",
+  "sample_records": 116,
+  "sample_sha256": "402ae6927afbe71603396180e33700d5cf2462179c44d41534c27510b474d66d",
+  "sample_size_bytes": 482856,
+  "total_records": 1160
+}
