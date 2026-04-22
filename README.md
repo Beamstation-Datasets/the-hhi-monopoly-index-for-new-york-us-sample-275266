@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for New York, US
 
-> Free BeamStation sample export with 107 rows and masked direct-contact fields.
+> Free BeamStation sample export with 92 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `275266` |
 | Location | New York |
 | Category | Restaurants |
-| Full dataset size | 1,070 records |
-| Free sample size | 107 records (10.0%) |
-| Last export | 2026-04-15T00:09:38.354746+00:00 |
+| Full dataset size | 924 records |
+| Free sample size | 92 records (9.96%) |
+| Last export | 2026-04-22T04:15:38.240762+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-new-york-us-sample-275266/releases/download/sample-latest/beamstation_275266_restaurants-us-ny_SAMPLE_DIST.csv) |
 
 ## What is in this sample
